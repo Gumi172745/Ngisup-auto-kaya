@@ -1,10 +1,1 @@
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'cd860241b19fa5a39d45f37338a71661',
-		'format' : 'iframe',
-		'height' : 90,
-		'width' : 728,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.highperformancedformats.com/cd860241b19fa5a39d45f37338a71661/invoke.js"></scr' + 'ipt>');
-</script>
+www.highperformancedformats.com/cd860241b19fa5a39d45f37338a71661/invoke.js
